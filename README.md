@@ -17,7 +17,7 @@ Here you can find all my configs of my **Voron 2.4R2** with the name “Green”
 
 
 ## Mods
-- [Reaper Toolhead]((https://github.com/APDMachine/Reaper)
+- [Reaper Toolhead](https://github.com/APDMachine/Reaper)
 - [Dragon Ace Hotend](https://www.trianglelab.net/products/dragon-ace™-hotend?VariantsId=11348)
 - [Umbilical with Endstop]()
 - [Moved Z-chain to rear profile]()
