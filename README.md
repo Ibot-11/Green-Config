@@ -40,7 +40,7 @@ Here you can find all my configs of my **Voron 2.4R2** with the name “Green”
   
 ## Selfmade Macros
 - **CLEAN_NOZZLE**    
-#### - A really simple macro for cleaning the nozzle with a nozzle brush.  
+- ##### A really simple macro for cleaning the nozzle with a nozzle brush.  
   
 - **PURGE_LINE**  
 - A large variable purge line. Enables cold filament changes. Does have some settings for customisations.
