@@ -52,4 +52,4 @@ Here you can find all my configs of my **Voron 2.4R2** with the name “Green”
 -  Full adaptive PRINT_START package which works with every V2.4 size. Full start routine with filament dependent fan control.  
 -  Does also have PRINT_START_VARIABLES as a dummy macro which enables variable pulling.  
   
-- **Many more modified macros (see macros.cfg)**
+- **Many more macros (see macros.cfg)**
